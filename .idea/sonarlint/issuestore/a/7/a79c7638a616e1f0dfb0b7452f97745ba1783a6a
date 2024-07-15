@@ -1,0 +1,24 @@
+
+k
+java:S1604-"(Make this anonymous inner class a lambda(‘ ¤¶8¿Äš›†2J$8cc14902-9e55-44a2-84c5-ab6ba42120eb
+‚
+java:S1854="?Remove this useless assignment to local variable "engineCode2".(ø÷‚¢8×Äš›†2J$1c4e521e-b74e-41b7-8f9b-04e919b6e344
+~	java:S125"<This block of commented-out lines of code should be removed.(ÌÒÿà8©¦š›†2J$27297695-c130-4959-a3f5-87c7f41b868f
+m	java:S1060"+Replace this use of System.out by a logger.(éóë8ÞÄš›†2J$37c172d7-8b87-4ef8-a85a-aba456e62c09
+m	java:S1065"+Replace this use of System.out by a logger.(˜ííó8áÄš›†2J$4376de91-e84d-46dd-922f-d00a4e34b86e
+u
+java:S16119"2Remove the parentheses around the "code" parameter(ôŸµÎ8ãÄš›†2J$b5945228-e619-4f6c-aa3f-b51212b66c10
+ƒ
+java:S16129"@Replace this lambda with method reference 'System.out::println'.(ôŸµÎ8äÄš›†2J$9d7f36f1-b216-4d60-ab48-f25e627e08d4
+m	java:S1069"+Replace this use of System.out by a logger.(ôŸµÎ8åÄš›†2J$5e8f1699-e5ac-499e-9e42-07b172a290c6
+ƒ
+java:S1612="@Replace this lambda with method reference 'System.out::println'.(ø÷‚¢8æÄš›†2J$8ebf5dd3-7cbc-498f-bfcf-14568a357397
+m	java:S106="+Replace this use of System.out by a logger.(ø÷‚¢8æÄš›†2J$aef7bf7c-8de0-4c1a-9616-51f7f4d9775a
+s
+java:S1481="0Remove this unused "engineCode2" local variable.(ø÷‚¢8çÄš›†2J$92fde51e-47f1-48dc-bb73-41be8d348672
+v
+java:S1611A"3Remove the parentheses around the "code3" parameter(˜’–8èÄš›†2J$87d75ccc-e7bf-44c4-938d-f281a32059cc
+ƒ
+java:S1612A"@Replace this lambda with method reference 'System.out::println'.(˜’–8éÄš›†2J$2f1985ad-af84-4089-81ff-fc6a4b1d120b
+m	java:S106A"+Replace this use of System.out by a logger.(˜’–8éÄš›†2J$1768e07d-4032-4025-9173-7b7536fefadf
+m	java:S106E"+Replace this use of System.out by a logger.(êÍÍ•8êÄš›†2J$486da42f-b246-4a83-b202-4418f9c34005
